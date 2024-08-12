@@ -1,4 +1,5 @@
-# CODSOFT #programming #python internship #Calculator #contact book #password generator #rock,paper,scissors #To Do List 
+# CODSOFT 
+#programming  #python   internship   #Calculator   #contact book   #password generator   #rock,paper,scissors   #To Do List 
 
 Welcome to the CODSOFT internship repository. Here, you'll find a collection of tasks completed during my python internship.
 
